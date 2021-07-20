@@ -1,0 +1,7 @@
+Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Bahay\Documents\Visual Studio 2012\Projects\systemProject\resortDb.accdb
+
+// If ililipat sa ibang device change lang ng yung Data Source or File Location Usually eto lang yung pinapalitan C:\Users\Bahay <- Which is the name of your Device Pc or Lappy
+
+INSERT INTO tblRooms (roomCode, roomName, roomDescription, roomPrice) values (1, 'Qwerty','Cute',2999);
+
+LogIn Button
