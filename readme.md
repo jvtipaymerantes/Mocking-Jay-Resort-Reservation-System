@@ -10,9 +10,9 @@ Mocking Jay Resort Reservation System enables the costumer to choose and reserve
 - Lenard Mangay Ayam
 
 ## System Documentation
-- [PDF](https://pages.github.com/)
-- [PowerPoint](https://pages.github.com/)
-- [Proposal](https://pages.github.com/) 
+- [PDF](https://github.com/jvtipaymerantes/Mocking-Jay-Resort-Reservation-System/blob/main/Documentation/MockingJay%20Resort%20Reservation.pdf)
+- [PowerPoint](https://github.com/jvtipaymerantes/Mocking-Jay-Resort-Reservation-System/blob/main/Documentation/Offline%20Room%20or%20Cottage%20Reservation%20System%20for%20Mocking%20Jay%20Pool%20Resort.pptx)
+- [Proposal](https://github.com/jvtipaymerantes/Mocking-Jay-Resort-Reservation-System/blob/main/Documentation/System%20Proposal.docx) 
 
 ## Screen Shots
 <img src="screenshots/11.jpg" width="960">
